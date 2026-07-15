@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NPK7490
 - 👀 I’m interested in Coding
 - 🌱 l graduated from the University Of Zimbabwe
-- 💞️ I’m looking to collaborate on web development, game development and application develpment.
+- 💞️ I’m looking to collaborate on web development, software development and application develpment.
 - 📫 How to reach me: nancypkaredza@gmail.com
 
 <!---
